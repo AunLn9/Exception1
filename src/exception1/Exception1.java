@@ -1,7 +1,7 @@
-package exception3;
+package exception1;
 import java.util.Scanner;
 
-public class Exception3 {
+public class Exception1 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,5 +1,5 @@
 
-package exception3;
+package exception1;
 
 
 public class MyException extends Exception {
